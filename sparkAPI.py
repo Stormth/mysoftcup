@@ -146,5 +146,5 @@ if __name__ == "__main__":
         api_key="f0ab54ae9fa1b44525e662cc8ab96e06",
         gpt_url="wss://spark-api.xf-yun.com/v3.5/chat",
         domain="generalv3.5",
-        query="怎么评价张居正"
+        query="怎么评价王阳明"
     )
